@@ -1,3 +1,3 @@
-module github.com/donserious/rblibs
+module github.com/donserious/rbutils
 
 go 1.20
